@@ -22,3 +22,6 @@ This project is a health visualization webpage that presents interactive scatter
 - Cleaned and integrated health datasets
 - Advanced data manipulation with D3.js
 - User-friendly interface and controls
+
+## Process
+- please refer to project process booklet to understand all the process to make the visualization.
